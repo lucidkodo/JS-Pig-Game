@@ -1,5 +1,7 @@
 Classic pig game! :)
 
+Note: I built the JS part of this app only.
+
 https://lucidkodo-js-pig-game.herokuapp.com
 
 GAME RULES:
